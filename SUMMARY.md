@@ -12,10 +12,10 @@
     * [react-native-debugger](doc/basic/debugger.md)
     * [logger调试中间件](doc/basic/logger.md)
 * react-navigation
-    * [Stack Navigator](doc/html/tatck.md)
-    * [Top&Buttom Navigator](doc/html/topButtom.md)
-    * [Drawer navigator](doc/html/drawer.md)
-    * [Switch Navigator](doc/html/switch.md)
+    * [Stack Navigator](doc/navigation/tatck.md)
+    * [Top&Buttom Navigator](doc/navigation/topButtom.md)
+    * [Drawer navigator](doc/navigation/drawer.md)
+    * [Switch Navigator](doc/navigation/switch.md)
 * Redux in React Native
     * [Redux基础](doc/redux/basic.md)
     * [react-redux](doc/redux/reactRedux.md)

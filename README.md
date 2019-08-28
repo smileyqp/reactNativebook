@@ -1,6 +1,6 @@
 # React Native总结：
-项目地址：
-https://smileyqp.github.io/reactNativebook/
+[gitbook项目地址](https://smileyqp.github.io/reactNativebook/)
+
 
 - [ ] Introduction
 - [ ] 前置内容
@@ -12,7 +12,7 @@ https://smileyqp.github.io/reactNativebook/
   - [ ] mac上ios配置
 
 - [ ] 基本调试工具选择
-  - [ ] 网络调试工具Reactotron
+  - [x] ~~网络调试工具Reactotron~~
   - [ ] react-native-debugger
   - [ ] logger调试中间件
 
