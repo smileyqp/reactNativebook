@@ -1,8 +1,8 @@
 # 网络调试工具Reactotron
 
-##### 下载相应版本[reactotron](https://github.com/infinitered/reactotron/releases)
+> react native的debug模式下；虽然能console调试；但是不能像前端web开发一样在控制台network中显示网络请求；reactotron是很好的react native的网络请求调试工具；可以实现web开发中的network调试功能；其详细安装配置步骤如下：
 
-![GitHub](/images/basic/reactotron1.png "GitHub,Social Coding")
+##### 下载相应版本[reactotron](https://github.com/infinitered/reactotron/releases)
 
 ##### 安装reactotron在自己的RN项目中的dev依赖上
  ``` js
