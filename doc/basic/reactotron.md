@@ -2,7 +2,7 @@
 
 ##### 下载相应版本[reactotron](https://github.com/infinitered/reactotron/releases)
 
-![GitHub](https://github.com/smileyqp/reactNativebook/blob/master/images/basic/reactotron1.png "GitHub,Social Coding")
+![GitHub](/images/basic/reactotron1.png "GitHub,Social Coding")
 
 ##### 安装reactotron在自己的RN项目中的dev依赖上
  ``` js
@@ -27,5 +27,6 @@ if(__DEV__) {
 ``` js
 adb reverse tcp:9090 tcp:9090
 ```
+![GitHub](/images/basic/reactotron2.png "GitHub,Social Coding")
 
 > 博客地址：[smileyqp's Blog](https://blog.csdn.net/qq_34273059/article/details/100124501)
