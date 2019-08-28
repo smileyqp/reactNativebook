@@ -23,3 +23,5 @@ if(__DEV__) {
 ``` js
 adb reverse tcp:9090 tcp:9090
 ```
+
+> 博客地址：[smileyqp's Blog](https://blog.csdn.net/qq_34273059/article/details/100124501)
