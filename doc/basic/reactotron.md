@@ -1,5 +1,9 @@
 # 网络调试工具Reactotron
 
+##### 下载相应版本[reactotron](https://github.com/infinitered/reactotron/releases)
+
+![GitHub](https://github.com/smileyqp/reactNativebook/blob/master/images/basic/reactotron1.png "GitHub,Social Coding")
+
 ##### 安装reactotron在自己的RN项目中的dev依赖上
  ``` js
 npm i --save-dev reactotron-react-native
