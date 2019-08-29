@@ -1,6 +1,7 @@
 # React Native总结：
-[gitbook项目地址](https://smileyqp.github.io/reactNativebook/)
+>[gitbook项目地址](https://smileyqp.github.io/reactNativebook/)
 
+> [github地址](https://github.com/smileyqp/reactNativebook)
 
 - [ ] Introduction
 - [ ] 前置内容
