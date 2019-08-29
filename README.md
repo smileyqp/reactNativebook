@@ -44,7 +44,7 @@
   - [ ] Android上物理键的返回处理
 
 - [ ] RN常见Eorror
-  - [x] Android9.0以上版本闪退
+  - [x] ~~Android9.0以上版本闪退~~
 
 - [ ] RN Demo
   - [ ] RN手势监控实现上下拉动菜单
