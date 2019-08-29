@@ -22,7 +22,7 @@ echo "执行命令：commit -m 'deploy'"
 git commit -m 'deploy'
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
-echo "执行命令：git push -f https://github.com/yulilong/book.git master:gh-pages"
+echo "执行命令：git push -f https://github.com/smileyqp/reactNativebook.git master:gh-pages"
 git push -f https://github.com/smileyqp/reactNativebook.git master:gh-pages
 
 # 返回到上一次的工作目录
