@@ -18,6 +18,8 @@
     * [Switch Navigator](doc/navigation/switch.md)
 * Redux in React Native
     * [Redux基础](doc/redux/basic.md)
+    * [reducer](doc/redux/reducer.md)
+    * [store](doc/redux/store.md)
     * [react-redux](doc/redux/reactRedux.md)
     * [redux和navigation的配套使用](doc/redux/reduxNavigation.md)
 * RN网络编程&数据存储技术
