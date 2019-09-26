@@ -33,6 +33,9 @@
     * [IOS](doc/package/ios.md)
 * 其他
     * [Android上物理键的返回处理](doc/others/androidBack.md)
+    * [高德地图插件的选择和使用](doc/others/map.md)
+    * [视频插件的选择和使用](doc/others/video.md)
+    * [UI组件的选择和使用](doc/others/ui.md)
 * RN常见Eorror
     * [Android9.0以上版本闪退](doc/error/Android9.md)
 * RN Demo
